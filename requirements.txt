@@ -1,0 +1,30 @@
+# Core Libraries
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# GANs / Diffusion
+torchmetrics
+einops
+
+# Audio Processing
+librosa
+soundfile
+
+# Object Detection (YOLO)
+opencv-python
+albumentations
+
+# Recommender Systems
+scipy
+implicit
+
+# Jupyter
+notebook
