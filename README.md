@@ -15,7 +15,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 ├── ADA3_YOLO.ipynb  
 ├── ADA4_recSys.ipynb  
 ├── requirements.txt  
-├── LICENSE
+├── LICENSE <br />
 └── README.md  
 
 ---
