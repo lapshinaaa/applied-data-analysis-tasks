@@ -14,6 +14,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 ├── ADA2_audio.ipynb  
 ├── ADA3_YOLO.ipynb  
 ├── ADA4_recSys.ipynb  
+├── ADA5_time_series <br />
 ├── requirements.txt  
 ├── LICENSE <br />
 └── README.md  
@@ -28,6 +29,7 @@ Each notebook is self-contained; imports are provided inline, and main libraries
 | ADA2_audio.ipynb | 🎵 Audio Data Analysis | Mel-spectrograms, RNNs, CNNs, SpecAugment | Explored audio data formats, implemented audio classifiers using recurrent and convolutional architectures, and applied SpecAugment for data augmentation. |
 | ADA3_YOLO.ipynb | 🧙 Object Detection on Harry Potter Dataset | YOLO architecture, object detection, custom implementation | Built YOLO object detection model nearly from scratch, implementing all major functions, and compared with pre-built solutions. |
 | ADA4_recSys.ipynb | 🎶 Music Recommendation System | Collaborative filtering, Pearson correlation, Jaccard similarity, Latent Factor Models | Designed recommender systems for music tracks. Implemented MAP@k metric, User2User collaborative filtering, similarity measures, and latent factor models for track prediction. |
+| ADA5_time_series | 📈 Time Series Forecasting | ETNA library, forecasting models, evaluation | Real-world case study: forecasting cash demand for ATMs. Used multi-segment daily data and ETNA toolkit to improve prediction quality — a critical task for financial institutions. |
 
 ---
 
